@@ -1,2 +1,2 @@
 # AI-SMA
-Code for "A Self-Adaptive Improved Slime Mould Algorithm for Multi-UAV Path Planning".
+Source code for the paper "A Self-Adaptive Improved Slime Mould Algorithm for Multi-UAV Path Planning".
